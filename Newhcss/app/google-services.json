@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212421420670",
+    "project_id": "newhcss",
+    "storage_bucket": "newhcss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212421420670:android:124d1f5745c59181b81a2f",
+        "android_client_info": {
+          "package_name": "com.example.newhcss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212421420670-ra23cb57unatb2p7588ck8h5q72k0tp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlYb2DU8KaQ3No7XyHM7y8LTqDVnZqFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212421420670-ra23cb57unatb2p7588ck8h5q72k0tp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
