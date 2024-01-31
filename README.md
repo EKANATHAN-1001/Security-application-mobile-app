@@ -1,6 +1,4 @@
-# Security-application
-
-# This is a simple mobile application to secure your data and access anywhere from the world using this application
+# Security-application - This is a simple mobile application to secure your data and access anywhere from the world using this application
 
 Login Page : Login with your mailId and password.
 
